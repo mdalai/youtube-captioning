@@ -1,0 +1,414 @@
+1
+00:00:01,300 --> 00:00:08,300
+ 
+
+2
+00:00:08,300 --> 00:00:11,530
+Hi. It's Mr. Andersen. Over a million people
+every year develop cancer. There are over
+
+3
+00:00:11,530 --> 00:00:16,510
+a hundred different types of cancer. But many
+people don't really know what is cancer? And
+
+4
+00:00:16,510 --> 00:00:21,009
+the answer to that question is very simple.
+If we look at a normal cell, on the inside
+
+5
+00:00:21,009 --> 00:00:26,470
+of the cell is the nuclei. And that contains
+DNA. And the DNA contains genes that control
+
+6
+00:00:26,470 --> 00:00:30,499
+the actions of the cell. And one of those
+important actions is how a cell makes a copy
+
+7
+00:00:30,499 --> 00:00:34,820
+of itself. How it goes through what we call
+the cell cycle. And so if you take a normal
+
+8
+00:00:34,820 --> 00:00:39,629
+cell and put it in culture it will simply
+make a copy of itself. And if there's room
+
+9
+00:00:39,629 --> 00:00:43,239
+those cells will make copies of themselves
+and they'll keep doing that until they fill
+
+10
+00:00:43,239 --> 00:00:48,579
+up that area. And if one of these cells dies
+then an adjacent cell is going to jump into
+
+11
+00:00:48,579 --> 00:00:53,420
+that cell cycle and it's going to fill that
+hole. And so that's how you went from a zygote
+
+12
+00:00:53,420 --> 00:00:58,170
+to the trillions of cells that are inside
+your body. And that's also how you replace
+
+13
+00:00:58,170 --> 00:01:02,870
+cells. And so your skin is constantly losing
+cells off the surface. But we're creating
+
+14
+00:01:02,870 --> 00:01:08,970
+cells underneath that. And so the cause of
+all cancers is the same. There is going to
+
+15
+00:01:08,970 --> 00:01:14,700
+be damage to the DNA. And so that DNA is made
+up of what are called nucleotides. And there
+
+16
+00:01:14,700 --> 00:01:19,050
+are tons of genes in there that are controlling
+this cell cycle. When a cell should make a
+
+17
+00:01:19,050 --> 00:01:24,250
+copy of itself and when it should stop dividing.
+And so a mutation is simply damage to that
+
+18
+00:01:24,250 --> 00:01:29,510
+DNA. Now it could just occur spontaneously.
+If we all live long enough we're all going
+
+19
+00:01:29,510 --> 00:01:33,650
+to develop cancer because these mutations
+are going to start to accrue during our life
+
+20
+00:01:33,650 --> 00:01:39,200
+time. But we can also increase the rate of
+those mutations using the environment. And
+
+21
+00:01:39,200 --> 00:01:43,420
+so for example if we smoke cigarettes that
+could cause mutations to the DNA. Increases
+
+22
+00:01:43,420 --> 00:01:49,940
+in UV radiation. We're finding decreases in
+exercise. Increases in certain types of diet
+
+23
+00:01:49,940 --> 00:01:55,450
+can cause mutations. And that can cause problems
+in the cell cycle. And so let's say we get
+
+24
+00:01:55,450 --> 00:01:59,530
+a mutation in this cell right here. There
+are going to be genes within that cell that
+
+25
+00:01:59,530 --> 00:02:03,310
+sense something is wrong. And lots of times
+it will undergo apoptosis where that cell
+
+26
+00:02:03,310 --> 00:02:09,750
+dies and another cell moves inside. But during
+our lifetime we start to accrue more and more
+
+27
+00:02:09,750 --> 00:02:14,350
+mutations. And eventually enough mutations
+build in one of those cells and it becomes
+
+28
+00:02:14,350 --> 00:02:19,550
+not a normal cell but a cancerous cell. And
+this takes a long time for that to occur.
+
+29
+00:02:19,550 --> 00:02:24,420
+And so this is a pretty awful graph. This
+is the increase in the popularity of cigarettes.
+
+30
+00:02:24,420 --> 00:02:29,560
+And so this is the number of cigarette smoking
+per person per year. And so as they were doing
+
+31
+00:02:29,560 --> 00:02:34,080
+that they were increasing the mutations inside
+their body. And we can look decades later,
+
+32
+00:02:34,080 --> 00:02:40,200
+we see the causation. We can see an increase
+in lung cancer in men as well. And so as we
+
+33
+00:02:40,200 --> 00:02:44,740
+make those mistakes in our cell we form these
+cancerous cells. Now what does a cancerous
+
+34
+00:02:44,740 --> 00:02:49,150
+cell do? It doesn't matter that there are
+cells around it. It is simply going to divide
+
+35
+00:02:49,150 --> 00:02:54,520
+and divide and divide. Over and over and over
+again. And eventually what you create is a
+
+36
+00:02:54,520 --> 00:03:00,190
+tumor. Now there are two types of tumor. If
+those cells are restricted to that one area
+
+37
+00:03:00,190 --> 00:03:06,050
+and stay within a membrane we call those benign
+tumors. And that's not cancer. But if there
+
+38
+00:03:06,050 --> 00:03:10,180
+is no restriction to that area it becomes
+what's called a malignant tumor. And that's
+
+39
+00:03:10,180 --> 00:03:15,290
+really a definition of what cancer is. It's
+when we have these uncontrolled cell growth
+
+40
+00:03:15,290 --> 00:03:20,459
+and those cells show uncontrolled cell growth
+spread throughout our body. And so this is
+
+41
+00:03:20,459 --> 00:03:26,040
+a video of some cancerous cells. And so instead
+of just growing and doing the jobs of the
+
+42
+00:03:26,040 --> 00:03:30,360
+cell, you can see they are kind of misshapen.
+And all they do is make copies of themselves
+
+43
+00:03:30,360 --> 00:03:33,930
+and copies of themselves over and over and
+over again. That's where all of the energy
+
+44
+00:03:33,930 --> 00:03:38,930
+is going. Now if that was restricted to one
+area it wouldn't be as big a deal. But they
+
+45
+00:03:38,930 --> 00:03:43,380
+can move to different areas of the body. And
+so if we have a tumor right here, it can start
+
+46
+00:03:43,380 --> 00:03:47,290
+to invade the tissues around it. And so that
+tumor can not only get larger, but it can
+
+47
+00:03:47,290 --> 00:03:52,849
+move into new areas. And if that tumor gets
+into the lymphatic system or the circulatory
+
+48
+00:03:52,849 --> 00:03:57,650
+system, it can move around our body and it
+can settle somewhere else. And so that's the
+
+49
+00:03:57,650 --> 00:04:02,739
+problem with a malignant tumor. And so we
+name cancers based on the tissues and the
+
+50
+00:04:02,739 --> 00:04:06,550
+organs that they infect. So this would be
+lung cancer. But we could also have colon
+
+51
+00:04:06,550 --> 00:04:11,420
+cancer. Or maybe pancreatic cancer or breast
+cancer. It's basically named on the tissue
+
+52
+00:04:11,420 --> 00:04:16,389
+of where it is. Now each of those cancers,
+even though the cause is the same, damage
+
+53
+00:04:16,389 --> 00:04:21,669
+to the DNA which produces uncontrolled cell
+growth, the way they manifest the disease
+
+54
+00:04:21,669 --> 00:04:25,270
+is going to be totally different. And so if
+you look at this x-ray we can see that this
+
+55
+00:04:25,270 --> 00:04:29,539
+is somebody who has lung cancer. And there's
+going to be a tumor right there. And what
+
+56
+00:04:29,539 --> 00:04:34,960
+we're finding is not only are all these different
+types cancer different, but each of those
+
+57
+00:04:34,960 --> 00:04:39,909
+individual tumors are different. And between
+two people those tumors are going to be different.
+
+58
+00:04:39,909 --> 00:04:43,569
+And even within the cells of the tumor they're
+going to be different. And so what does that
+
+59
+00:04:43,569 --> 00:04:48,580
+mean? Well even though we might treat one
+tumor, we're going to find that within that
+
+60
+00:04:48,580 --> 00:04:52,659
+tumor there are going to be different cells.
+Each of those have different genetic problems.
+
+61
+00:04:52,659 --> 00:04:57,889
+And so we could treat most of the tumor, remove
+most of it, but it is going to come back eventually
+
+62
+00:04:57,889 --> 00:05:03,580
+over time. And so what do we have for treatments?
+And so since cancer is uncontrolled cell growth
+
+63
+00:05:03,580 --> 00:05:07,770
+we want to find those cells and quickly as
+we can. And so screening is the most important
+
+64
+00:05:07,770 --> 00:05:12,330
+thing. Once we find that cancer has developed
+and we find that tumor, the first thing that
+
+65
+00:05:12,330 --> 00:05:17,080
+we want to do is we want to remove that. And
+so surgery is generally what happens next.
+
+66
+00:05:17,080 --> 00:05:21,949
+We remove that tumor. We also use radiation.
+In other words we're not going to be able
+
+67
+00:05:21,949 --> 00:05:26,099
+to remove all of those cell. There are going
+to be extraneous cells around it. And so we
+
+68
+00:05:26,099 --> 00:05:31,289
+can target this with ionizing radiation. And
+we can kill all those cells. Now this has
+
+69
+00:05:31,289 --> 00:05:36,249
+dangers as well. And so we try to restrict
+that to that one area. But it can cause damage
+
+70
+00:05:36,249 --> 00:05:40,969
+to the cells around it. And then often times
+we'll use chemotherapy. Now what is chemotherapy
+
+71
+00:05:40,969 --> 00:05:45,719
+doing? It's going throughout your whole body.
+And it is targeting cells that are actively
+
+72
+00:05:45,719 --> 00:05:50,159
+dividing. Cells that are going through this
+cell cycle. And so that's why it affects,
+
+73
+00:05:50,159 --> 00:05:54,009
+for example, you get a lot of nausea. Because
+it's affecting those cells in your digestive
+
+74
+00:05:54,009 --> 00:05:58,319
+tract. Or you lose your hair because it is
+affecting those cells that are quickly making,
+
+75
+00:05:58,319 --> 00:06:02,909
+that are constantly making new hair. And so
+with all of these we're getting better and
+
+76
+00:06:02,909 --> 00:06:09,089
+better at treating cancer. What's the future
+hold? Well we're really just treating just
+
+77
+00:06:09,089 --> 00:06:13,719
+all cancers with these three methods the same.
+And so what we'll see is if we can get into
+
+78
+00:06:13,719 --> 00:06:18,469
+the genetics and we start to understand how
+each of those cancers are different then we
+
+79
+00:06:18,469 --> 00:06:22,749
+can start to target them. And so one of the
+breakthroughs was Gleevec which is one of
+
+80
+00:06:22,749 --> 00:06:28,289
+these first drugs that's targeting a specific
+type of leukemia. And it was affecting a specific
+
+81
+00:06:28,289 --> 00:06:33,490
+machinery within that cell. And so again,
+the more we understand about cancer we find
+
+82
+00:06:33,490 --> 00:06:37,689
+that they are all the same but the causes
+are going to be different. And so what is
+
+83
+00:06:37,689 --> 00:06:44,689
+cancer? It's simply uncontrolled cell growth.
+And I hope that was helpful.
+

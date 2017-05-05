@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<pen id="1" fc="#E5E5E5"/>
+<pen id="2" fc="#CCCCCC"/>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="0" d="3600" w="1"><s ac="239">Sharon</s><s t="480" ac="236"> was</s><s t="630" ac="252"> given</s><s t="900" ac="252"> a</s><s t="930" ac="231"> few</s><s t="1140" ac="252"> months</s><s t="1410" ac="252"> to</s><s t="1589" ac="252"> live</s><s p="2" t="1740" ac="156"> if</s></p>
+<p t="2030" d="1570" w="1" a="1">
+</p>
+<p t="2040" d="3870" w="1"><s ac="252">her</s><s t="119" ac="252"> cancer</s><s p="1" t="510" ac="208"> wasn&#39;t</s><s t="839" ac="252"> treated</s><s p="2" t="1170" ac="143"> I</s><s t="1320" ac="252"> was</s></p>
+<p t="3590" d="2320" w="1" a="1">
+</p>
+<p t="3600" d="5400" w="1"><s ac="252">diagnosed</s><s t="630" ac="245"> with</s><s t="1080" ac="236"> advanced</s><s p="1" t="1530" ac="201"> non-small-cell</s></p>
+<p t="5900" d="3100" w="1" a="1">
+</p>
+<p t="5910" d="5340" w="1"><s ac="248">lung</s><s t="300" ac="252"> cancer</s><s t="929" ac="234"> which</s><s t="1469" ac="252"> I</s><s t="1679" ac="252"> thought</s><s t="1920" ac="252"> meant</s><s t="2640" ac="252"> chemo</s></p>
+<p t="8990" d="2260" w="1" a="1">
+</p>
+<p t="9000" d="4799" w="1"><s p="1" ac="207">but</s><s t="389" ac="252"> a</s><s t="420" ac="229"> biomarker</s><s p="1" t="1019" ac="204"> test</s><s t="1469" ac="252"> showed</s><s t="1740" ac="227"> I</s><s t="1769" ac="252"> had</s><s t="2070" ac="252"> high</s></p>
+<p t="11240" d="2559" w="1" a="1">
+</p>
+<p t="11250" d="4110" w="1"><s ac="252">levels</s><s t="420" ac="252"> of</s><s t="540" ac="252"> PDL</s><s p="1" t="990" ac="213"> one</s><s t="1230" ac="227"> which</s><s t="1950" ac="252"> meant</s><s t="2219" ac="252"> I</s><s t="2370" ac="252"> could</s></p>
+<p t="13789" d="1571" w="1" a="1">
+</p>
+<p t="13799" d="3511" w="1"><s ac="252">start</s><s t="271" ac="252"> with</s><s t="361" ac="252"> a</s><s t="420" ac="252"> different</s><s t="931" ac="252"> treatment</s><s p="2" t="1141" ac="166"> one</s></p>
+<p t="15350" d="1960" w="1" a="1">
+</p>
+<p t="15360" d="4020" w="1"><s ac="249">year</s><s p="1" t="210" ac="200"> later</s><s p="2" t="479" ac="178"> she&#39;s</s><s t="929" ac="252"> here</s><s p="2" t="1140" ac="97"> with</s><s t="1259" ac="252"> her</s><s t="1380" ac="252"> family</s><s p="2" t="1589" ac="0"> a</s></p>
+<p t="17300" d="2080" w="1" a="1">
+</p>
+<p t="17310" d="4830" w="1"><s ac="252">true</s><s p="1" t="299" ac="200"> story</s><s t="570" ac="237"> with</s><s t="930" ac="220"> key</s><s p="1" t="1080" ac="217"> Trudeau</s><s p="2" t="1440" ac="152"> I&#39;m</s><s p="1" t="1680" ac="219"> Kate</s></p>
+<p t="19370" d="2770" w="1" a="1">
+</p>
+<p t="19380" d="5069" w="1"><s p="2" ac="165">Rita</s><s t="390" ac="236"> my</s><s t="960" ac="236"> scan</s><s t="1319" ac="255"> started</s><s t="1800" ac="252"> showing</s><s p="1" t="2010" ac="207"> good</s><s t="2520" ac="252"> news</s></p>
+<p t="22130" d="2319" w="1" a="1">
+</p>
+<p t="22140" d="4440" w="1"><s ac="242">in</s><s t="420" ac="252"> a</s><s t="660" ac="226"> clinical</s><s p="1" t="1080" ac="203"> study</s><s p="2" t="1290" ac="196"> key</s><s p="1" t="1830" ac="207"> true</s><s t="2010" ac="248"> to</s><s t="2129" ac="235"> offer</s></p>
+<p t="24439" d="2141" w="1" a="1">
+</p>
+<p t="24449" d="4231" w="1"><s ac="252">patients</s><s t="361" ac="252"> a</s><s t="691" ac="252"> longer</s><s t="1051" ac="252"> life</s><s t="1231" ac="252"> than</s><s p="2" t="1261" ac="163"> chemotherapy</s></p>
+<p t="26570" d="2110" w="1" a="1">
+</p>
+<p t="26580" d="3449" w="1"><s ac="234">and</s><s t="209" ac="252"> with</s><s t="449" ac="252"> high</s><s t="600" ac="252"> levels</s><s t="959" ac="252"> of</s><s t="1050" ac="252"> PDL</s><s p="2" t="1410" ac="146"> one</s><s p="1" t="1680" ac="216"> it</s><s t="1920" ac="225"> could</s></p>
+<p t="28670" d="1359" w="1" a="1">
+</p>
+<p t="28680" d="3539" w="1"><s p="1" ac="217">be</s><s t="120" ac="252"> your</s><s p="1" t="240" ac="208"> first</s><s t="509" ac="252"> treatment</s><s p="1" t="749" ac="204"> instead</s><s t="1200" ac="252"> of</s></p>
+<p t="30019" d="2200" w="1" a="1">
+</p>
+<p t="30029" d="3960" w="1"><s ac="255">chemotherapy</s><s p="2" t="361" ac="114"> key</s><s p="2" t="1051" ac="178"> tutors</s><s p="1" t="1441" ac="207"> for</s><s t="1621" ac="222"> adults</s><s t="1891" ac="252"> with</s></p>
+<p t="32209" d="1780" w="1" a="1">
+</p>
+<p t="32219" d="4051" w="1"><s ac="238">non-small-cell</s><s t="601" ac="249"> lung</s><s t="901" ac="252"> cancer</s><s t="1500" ac="252"> that</s><s t="1531" ac="230"> has</s></p>
+<p t="33979" d="2291" w="1" a="1">
+</p>
+<p t="33989" d="3961" w="1"><s ac="252">spread</s><s p="1" t="31" ac="216"> who</s><s t="601" ac="252"> test</s><s t="840" ac="252"> positive</s><s t="901" ac="252"> for</s><s t="1351" ac="255"> PDL</s><s p="2" t="1801" ac="127"> 1</s><s t="2011" ac="252"> and</s></p>
+<p t="36260" d="1690" w="1" a="1">
+</p>
+<p t="36270" d="4050" w="1"><s ac="252">whose</s><s t="120" ac="242"> tumors</s><s t="510" ac="252"> do</s><s t="690" ac="252"> not</s><s t="870" ac="252"> have</s><s t="1020" ac="252"> an</s><s t="1140" ac="252"> abnormal</s></p>
+<p t="37940" d="2380" w="1" a="1">
+</p>
+<p t="37950" d="4800" w="1"><s ac="225">EGFR</s><s t="600" ac="240"> or</s><s p="2" t="810" ac="196"> algae</s><s p="2" t="1289" ac="187"> teach</s><s p="2" t="1769" ac="252"> you</s><s p="2" t="1920" ac="233"> to</s><s p="2" t="1949" ac="167"> help</s><s t="2220" ac="229"> your</s></p>
+<p t="40310" d="2440" w="1" a="1">
+</p>
+<p t="40320" d="4110" w="1"><s p="1" ac="201">immune</s><s t="360" ac="252"> system</s><s t="750" ac="252"> fight</s><s t="1079" ac="252"> cancer</s><s p="2" t="1590" ac="0"> T</s><s t="2070" ac="225"> true</s><s t="2280" ac="252"> that</s></p>
+<p t="42740" d="1690" w="1" a="1">
+</p>
+<p t="42750" d="3210" w="1"><s ac="252">can</s><s t="180" ac="252"> cause</s><s t="360" ac="231"> your</s><s p="2" t="570" ac="145"> immune</s><s t="840" ac="252"> system</s><s p="2" t="1230" ac="161"> to</s><s p="2" t="1350" ac="125"> attack</s></p>
+<p t="44420" d="1540" w="1" a="1">
+</p>
+<p t="44430" d="3420" w="1"><s ac="252">normal</s><s t="390" ac="252"> organs</s><s t="719" ac="252"> and</s><s t="870" ac="252"> tissues</s><s t="1199" ac="252"> in</s><s t="1379" ac="252"> your</s><s t="1410" ac="252"> body</s></p>
+<p t="45950" d="1900" w="1" a="1">
+</p>
+<p t="45960" d="3750" w="1"><s p="2" ac="0">and</s><s p="2" t="450" ac="101"> affect</s><s p="2" t="720" ac="252"> how</s><s p="2" t="840" ac="252"> they</s><s p="2" t="1020" ac="252"> work</s><s p="1" t="1230" ac="201"> and</s><s t="1619" ac="225"> may</s><s t="1829" ac="226"> be</s></p>
+<p t="47840" d="1870" w="1" a="1">
+</p>
+<p t="47850" d="3869" w="1"><s ac="238">serious</s><s p="1" t="540" ac="217"> and</s><s t="750" ac="245"> lead</s><s t="900" ac="252"> to</s><s t="1020" ac="252"> death</s><s p="2" t="1049" ac="127"> see</s><s t="1740" ac="252"> your</s></p>
+<p t="49700" d="2019" w="1" a="1">
+</p>
+<p t="49710" d="4140" w="1"><s ac="226">doctor</s><s t="270" ac="252"> right</s><s t="570" ac="252"> away</s><s t="630" ac="252"> if</s><s p="2" t="900" ac="140"> you</s><s t="1169" ac="252"> experience</s><s p="1" t="1200" ac="206"> new</s></p>
+<p t="51709" d="2141" w="1" a="1">
+</p>
+<p t="51719" d="4471" w="1"><s ac="252">or</s><s t="151" ac="252"> worsening</s><s t="301" ac="252"> cough</s><s t="811" ac="246"> chest</s><s t="1351" ac="226"> pain</s><s p="2" t="1621" ac="187"> shortness</s></p>
+<p t="53840" d="2350" w="1" a="1">
+</p>
+<p t="53850" d="4709" w="1"><s ac="252">of</s><s t="240" ac="252"> breath</s><s p="1" t="420" ac="201"> diarrhea</s><s t="1139" ac="249"> severe</s><s t="1740" ac="239"> stomach</s><s t="2130" ac="252"> pain</s></p>
+<p t="56180" d="2379" w="1" a="1">
+</p>
+<p t="56190" d="4130" w="1"><s p="2" ac="124">or</s><s t="180" ac="252"> tenderness</s><s p="1" t="389" ac="207"> nausea</s><s t="1230" ac="252"> or</s><s t="1320" ac="252"> vomiting</s><s p="1" t="1470" ac="216"> rapid</s></p>
+<p t="58549" d="1771" w="1" a="1">
+</p>
+<p t="58559" d="3691" w="1"><s ac="239">heartbeat</s><s p="1" t="451" ac="216"> increased</s><s t="930" ac="252"> hunger</s><s t="1140" ac="243"> or</s><s t="1381" ac="252"> thirst</s></p>
+<p t="60310" d="1940" w="1" a="1">
+</p>
+<p t="60320" d="4269" w="1"><s p="2" ac="188">constipation</s><s p="1" t="1000" ac="202"> dizziness</s><s t="1570" ac="252"> or</s><s t="1719" ac="252"> fainting</s></p>
+<p t="62240" d="2349" w="1" a="1">
+</p>
+<p t="62250" d="4860" w="1"><s p="1" ac="200">changes</s><s t="809" ac="252"> in</s><s t="960" ac="252"> urine</s><s p="1" t="1289" ac="204"> changes</s><s t="1860" ac="227"> in</s><s p="1" t="1979" ac="217"> eyesight</s></p>
+<p t="64579" d="2531" w="1" a="1">
+</p>
+<p t="64589" d="4741" w="1"><s p="1" ac="204">muscle</s><s t="511" ac="252"> pain</s><s t="691" ac="252"> or</s><s p="2" t="720" ac="186"> weakness</s><s p="1" t="991" ac="216"> joint</s><s t="1801" ac="246"> pain</s><s t="2011" ac="239"> rash</s></p>
+<p t="67100" d="2230" w="1" a="1">
+</p>
+<p t="67110" d="3660" w="1"><s ac="252">itching</s><s t="360" ac="252"> or</s><s p="2" t="810" ac="164"> flushing</s><s t="1259" ac="239"> as</s><s t="1380" ac="252"> this</s><s t="1799" ac="252"> may</s><s t="2009" ac="252"> keep</s></p>
+<p t="69320" d="1450" w="1" a="1">
+</p>
+<p t="69330" d="3329" w="1"><s p="1" ac="217">these</s><s t="240" ac="252"> problems</s><s t="630" ac="252"> from</s><s p="1" t="810" ac="205"> becoming</s><s p="1" t="1020" ac="201"> more</s></p>
+<p t="70760" d="1899" w="1" a="1">
+</p>
+<p t="70770" d="3570" w="1"><s ac="252">serious</s><s p="1" t="209" ac="204"> these</s><s t="870" ac="252"> are</s><s t="1020" ac="234"> not</s><s t="1200" ac="252"> all</s><s p="1" t="1349" ac="207"> the</s><s p="1" t="1470" ac="201"> possible</s></p>
+<p t="72649" d="1691" w="1" a="1">
+</p>
+<p t="72659" d="3600" w="1"><s ac="247">side</s><s t="210" ac="247"> effects</s><s p="1" t="541" ac="217"> of</s><s p="2" t="691" ac="127"> katroo</s><s p="2" t="1051" ac="113"> de</s><s p="2" t="1201" ac="222"> tell</s><s p="2" t="1530" ac="233"> your</s></p>
+<p t="74330" d="1929" w="1" a="1">
+</p>
+<p t="74340" d="3930" w="1"><s ac="235">doctor</s><s p="2" t="389" ac="120"> about</s><s t="510" ac="248"> all</s><s p="1" t="840" ac="203"> your</s><s t="900" ac="252"> medical</s><s p="2" t="1110" ac="122"> conditions</s></p>
+<p t="76249" d="2021" w="1" a="1">
+</p>
+<p t="76259" d="3631" w="1"><s ac="252">including</s><s p="1" t="211" ac="208"> immune</s><s t="750" ac="252"> system</s><s p="1" t="1110" ac="215"> problems</s><s t="1531" ac="236"> or</s><s t="1831" ac="252"> if</s></p>
+<p t="78260" d="1630" w="1" a="1">
+</p>
+<p t="78270" d="4169" w="1"><s ac="252">you&#39;ve</s><s t="180" ac="252"> had</s><s p="2" t="209" ac="184"> an</s><s t="480" ac="252"> organ</s><s t="840" ac="252"> transplant</s><s t="1080" ac="252"> or</s><s t="1590" ac="252"> lung</s></p>
+<p t="79880" d="2559" w="1" a="1">
+</p>
+<p t="79890" d="3900" w="1"><s p="1" ac="214">reading</s><s t="750" ac="252"> or</s><s t="900" ac="252"> liver</s><s p="2" t="1080" ac="164"> problems</s><s t="1530" ac="227"> each</s><s t="1979" ac="252"> day</s><s t="2310" ac="252"> now</s></p>
+<p t="82429" d="1361" w="1" a="1">
+</p>
+<p t="82439" d="3961" w="1"><s p="1" ac="205">it&#39;s</s><s t="750" ac="252"> a</s><s t="961" ac="252"> gift</s></p>
+<p t="83780" d="2620" w="1" a="1">
+</p>
+<p t="83790" d="5310" w="1"><s p="2" ac="80">a</s><s t="180" ac="252"> chance</s><s t="750" ac="252"> for</s><s t="869" ac="252"> a</s><s t="1050" ac="252"> longer</s><s t="1469" ac="252"> life</s><s p="1" t="1680" ac="204"> it&#39;s</s><s t="2280" ac="252"> true</s></p>
+<p t="86390" d="2710" w="1" a="1">
+</p>
+<p t="86400" d="5539" w="1"><s p="2" ac="157">katroo</s><s p="1" t="780" ac="202"> de</s><s t="930" ac="236"> from</s><s t="1350" ac="246"> Merck</s><s p="2" t="1590" ac="186"> ask</s><s t="1859" ac="252"> your</s><s p="1" t="2310" ac="217"> doctor</s></p>
+<p t="89090" d="2849" w="1" a="1">
+</p>
+<p t="89100" d="2839" w="1"><s ac="252">about</s><s t="30" ac="226"> katroo</s><s t="690" ac="223"> de</s></p>
+</body>
+</timedtext>
