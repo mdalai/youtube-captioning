@@ -41,15 +41,15 @@ def xml2srt(xmlfile):
         i = 0
         for p in soup.findAll('p'):
             #print p
-            if p.has_attr('d'):
+            if p.has_attr('d') and p.has_attr('t'):
                 #print p['t'],p['d']
                 begin = float(p['t'])
                 dur = float(p['d'])
 
                 #print p.text
-                print p.string
+                #print p.string
 
-                if p.string:
+                if p.text.strip()!='' and p.text.strip()!="[Music]":
                     fout.write("""{num}\n{start} --> {end}\n{content}\n\n""".format(num=i+1,
                             start=strfdelta(timedelta(microseconds=begin)),
                             end=strfdelta(timedelta(microseconds=begin+dur)),

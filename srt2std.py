@@ -27,19 +27,25 @@ def get_next_target(text):
         return None,None
     
     if text.find("--> ",end_time_pos) == -1:
-        return text,None
+        return text[end_time_pos-17:],None   
     
     end_time = text[end_time_pos:end_time_pos+12]
-    next_next_start_time_pos = text.find("--> ",text.find("--> ",end_time_pos)+4)
-    if next_next_start_time_pos == -1:
-        next_next_start_time_pos = text.find("--> ",end_time_pos)+4
-        end_time = text[next_next_start_time_pos:next_next_start_time_pos+12]
-        return text[2:end_time_pos]+ end_time +'\n' + text[end_time_pos+13:find_nth_index(text,"\n",end_time_pos,2)] + text[next_next_start_time_pos+13:], None
-    
-    next_next_start_time = text[next_next_start_time_pos-13:next_next_start_time_pos-1]
 
-    if datetime.strptime(end_time, '%H:%M:%S,%f') < datetime.strptime(next_next_start_time, '%H:%M:%S,%f'):
-        end_time = next_next_start_time
+    # check if we need to process
+    line2_start_time = text[text.find("--> ",end_time_pos)-13:text.find("--> ",end_time_pos)-1]
+    if datetime.strptime(end_time, '%H:%M:%S,%f') <= datetime.strptime(line2_start_time, '%H:%M:%S,%f'):
+        return None, None
+
+
+    line3_start_time_pos = text.find("--> ",text.find("--> ",end_time_pos)+4)
+    if line3_start_time_pos == -1:
+        line3_start_time_pos = text.find("--> ",end_time_pos)+4
+        return text[2:find_nth_index(text,"\n",end_time_pos,2)] + text[line3_start_time_pos+13:], None
+    
+    line3_start_time = text[line3_start_time_pos-13:line3_start_time_pos-1]
+
+    if datetime.strptime(end_time, '%H:%M:%S,%f') < datetime.strptime(line3_start_time, '%H:%M:%S,%f'):
+        end_time = line3_start_time
     
     end_line_pos = text.find("\n",end_time_pos)+1
     end_line_pos1 = find_nth_index(text,"\n",end_line_pos,1)
@@ -48,7 +54,7 @@ def get_next_target(text):
     
     txt2line = text[2:end_time_pos] + end_time +'\n' + text[end_line_pos:end_line_pos1] + text[end_line_pos2:end_line_pos3]
 
-    return txt2line, next_next_start_time_pos-15
+    return txt2line, line3_start_time_pos-15
     
 
 def find_nth_index(text, seach_str, startpos, n):
@@ -61,7 +67,7 @@ def find_nth_index(text, seach_str, startpos, n):
 def merge2srt(srtfile):
     root, _ = os.path.splitext(srtfile)
     if os.path.exists('%s-2.srt' % root):
-        print "SRT file is already updated"
+        print "%s.srt -- has already updated!"%root
         return
 
     with open(srtfile) as fin:
@@ -69,7 +75,11 @@ def merge2srt(srtfile):
 
     
     new_srt = new_srt_text(text)
-    print new_srt
+    #print new_srt
+
+    if not new_srt:
+        print "%s.srt -- has No time-overlapping problem!"%root
+        return
 
     with open('%s-2.srt'%root, 'w') as fout:
         fout.write(new_srt)
